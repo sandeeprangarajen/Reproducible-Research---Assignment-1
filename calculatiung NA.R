@@ -1,0 +1,1 @@
+ sum(is.na(activity))
